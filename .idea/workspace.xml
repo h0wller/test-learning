@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4737eef5-0125-48b0-ac7a-cb7663d2fa5b" name="Default Changelist" comment="Adding HTML5Boilerplate" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2CdH5BOnv7go9AU8t7ZH5Bfji5J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4737eef5-0125-48b0-ac7a-cb7663d2fa5b" name="Default Changelist" comment="" />
+      <created>1659125355812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659125355812</updated>
+      <workItem from="1659125358078" duration="241000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding HTML5Boilerplate">
+      <created>1659125446869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659125446870</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding HTML5Boilerplate">
+      <created>1659125547908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659125547908</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding HTML5Boilerplate">
+      <created>1659125560263</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659125560263</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding HTML5Boilerplate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding HTML5Boilerplate" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="382" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1659125527669">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="382" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1857.1080@0.0.1857.1080" timestamp="1659125527669" />
+    <state x="520" y="272" key="Vcs.Push.Dialog.v2" timestamp="1659125567546">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="520" y="272" key="Vcs.Push.Dialog.v2/0.0.1857.1080@0.0.1857.1080" timestamp="1659125567546" />
+    <state x="746" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659125532511">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="746" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1857.1080@0.0.1857.1080" timestamp="1659125532511" />
+    <state x="585" y="250" key="run.anything.popup" timestamp="1659125574946">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="585" y="250" key="run.anything.popup/0.0.1857.1080@0.0.1857.1080" timestamp="1659125574946" />
+  </component>
+</project>
