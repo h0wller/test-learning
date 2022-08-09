@@ -1,0 +1,24 @@
+<changelist name="boilerplate_v_1" date="1659123502075" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/boilerplate_v_1/shelved.patch" />
+  <option name="DESCRIPTION" value="boilerplate v.1" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="favicon.ico" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/boilerplate_v_1/favicon.ico" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="icon.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/boilerplate_v_1/icon.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="tile.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/boilerplate_v_1/tile.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="tile-wide.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/boilerplate_v_1/tile-wide.png" />
+  </binary>
+</changelist>

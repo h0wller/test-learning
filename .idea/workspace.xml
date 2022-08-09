@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="536d832b-544a-43c7-a7f0-84f0d1ed7815" name="Default Changelist" comment="" />
+=======
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="594cb2dc-d614-4a8f-b810-91934dd9b351" name="boilerplate v.1" comment="First commit. Added to my new folder HTML5Boilerplate" />
+>>>>>>> 0f79ff7 (Adding new trash)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,19 +24,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2CdGugHXtEJkWWYCsIqk12hRBwL" />
+=======
+  <component name="ProjectId" id="2CdCkHPyQDylthAKryauncPp2gC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> 0f79ff7 (Adding new trash)
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+=======
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+>>>>>>> 0f79ff7 (Adding new trash)
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="536d832b-544a-43c7-a7f0-84f0d1ed7815" name="Default Changelist" comment="" />
       <created>1659125273843</created>
       <option name="number" value="Default" />
@@ -30,15 +61,88 @@
       <updated>1659125273843</updated>
       <workItem from="1659125275060" duration="80000" />
     </task>
+=======
+      <changelist id="594cb2dc-d614-4a8f-b810-91934dd9b351" name="Default Changelist" comment="" />
+      <created>1659123215195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659123215195</updated>
+      <workItem from="1659123216892" duration="456000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit. Added to my new folder HTML5Boilerplate">
+      <created>1659123656849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659123656849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> 0f79ff7 (Adding new trash)
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
   <component name="WindowStateProjectService">
     <state x="708" y="281" key="FileChooserDialogImpl" timestamp="1659125328536">
       <screen x="0" y="0" width="1857" height="1080" />
     </state>
     <state x="708" y="281" key="FileChooserDialogImpl/0.0.1857.1080@0.0.1857.1080" timestamp="1659125328536" />
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First commit. Added to my new folder HTML5Boilerplate" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit. Added to my new folder HTML5Boilerplate" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1673" height="896" key="DiffContextDialog" timestamp="1659123632620">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="92" y="92" width="1673" height="896" key="DiffContextDialog/0.0.1857.1080@0.0.1857.1080" timestamp="1659123632620" />
+    <state width="1836" height="295" key="GridCell.Tab.0.bottom" timestamp="1659123676215">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state width="1836" height="295" key="GridCell.Tab.0.bottom/0.0.1857.1080@0.0.1857.1080" timestamp="1659123676215" />
+    <state width="1836" height="295" key="GridCell.Tab.0.center" timestamp="1659123676215">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state width="1836" height="295" key="GridCell.Tab.0.center/0.0.1857.1080@0.0.1857.1080" timestamp="1659123676215" />
+    <state width="1836" height="295" key="GridCell.Tab.0.left" timestamp="1659123676215">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state width="1836" height="295" key="GridCell.Tab.0.left/0.0.1857.1080@0.0.1857.1080" timestamp="1659123676215" />
+    <state width="1836" height="295" key="GridCell.Tab.0.right" timestamp="1659123676215">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state width="1836" height="295" key="GridCell.Tab.0.right/0.0.1857.1080@0.0.1857.1080" timestamp="1659123676215" />
+    <state x="776" y="453" key="VCS.ChangelistChooser" timestamp="1659123575688">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="776" y="453" key="VCS.ChangelistChooser/0.0.1857.1080@0.0.1857.1080" timestamp="1659123575688" />
+    <state x="815" y="454" key="VCS.EditChangelistDialog" timestamp="1659123493506">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="815" y="454" key="VCS.EditChangelistDialog/0.0.1857.1080@0.0.1857.1080" timestamp="1659123493506" />
+    <state x="498" y="282" key="Vcs.Push.Dialog.v2" timestamp="1659123673788">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="498" y="282" key="Vcs.Push.Dialog.v2/0.0.1857.1080@0.0.1857.1080" timestamp="1659123673788" />
+    <state x="746" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659123295819">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="746" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1857.1080@0.0.1857.1080" timestamp="1659123295819" />
+>>>>>>> 0f79ff7 (Adding new trash)
   </component>
 </project>
