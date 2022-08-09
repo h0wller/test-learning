@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/FirstDayWithGit.iml" filepath="$PROJECT_DIR$/.idea/FirstDayWithGit.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/AlexandrSysoev.Obuchenie.iml" filepath="$PROJECT_DIR$/.idea/AlexandrSysoev.Obuchenie.iml" />
+>>>>>>> 0fe847c (First commit. Added to my new folder HTML5Boilerplate)
     </modules>
   </component>
 </project>
